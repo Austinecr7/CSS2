@@ -1,0 +1,58 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+p {
+    font-size:  24px;
+    font-weight: bold;
+    color: #313131;
+    font-family: "Quicksand", sans-serif;
+}
+p:hover {
+    color: blueviolet;
+    font-weight: 600;
+    font-family: 'Handjet', cursive;
+    font-size: 50px;
+}
+a:hover {
+    text-decoration: line-through;
+    color: red; */
+/* } */
+
+/* p, a, h1, img {
+    border: 10px solid;
+    box-shadow: 5px 5px 5px red;
+    padding: 20px;
+    margin: 20px;
+} */
+/* .p2{
+    /* border: 0px solid navy;
+    padding: 20px 40px; */
+    text-align: left; */
+}
+img{
+    background: gold;
+}
+.box1, .box2, .box3{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
+.box1 {
+    background-color: red;
+}
+
+.box2 {
+background-color: yellow;
+visibility: hidden;
+}
+
+.box3 {
+    background-color: green;
+}
+p{
+    display: inline;
+}
+
+a{
+    display: block;
+}
